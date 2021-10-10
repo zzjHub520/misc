@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d6acebf-0fe2-4d04-b32a-eafa2ff30a54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/快速上手.md" beforeDir="false" afterPath="$PROJECT_DIR$/快速上手.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1zJonDtX58fYm70FZ47guaKOvlM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../part3-webpack3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\zj\Documents\WorkSpaces\front-end\learning\typescript\typescript-atguigu\part3-webpack2\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6acebf-0fe2-4d04-b32a-eafa2ff30a54" name="Default Changelist" comment="" />
+      <created>1633875716402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633875716402</updated>
+      <workItem from="1633875717498" duration="5258000" />
+      <workItem from="1633881186050" duration="2076000" />
+      <workItem from="1633883794335" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="853" y="182" key="FileChooserDialogImpl" timestamp="1633883994547">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="853" y="182" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1633883994547" />
+    <state width="1178" height="196" key="GridCell.Tab.0.bottom" timestamp="1633883270024">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1178" height="196" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1633883270024" />
+    <state width="1178" height="196" key="GridCell.Tab.0.center" timestamp="1633883270023">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1178" height="196" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1633883270023" />
+    <state width="1178" height="196" key="GridCell.Tab.0.left" timestamp="1633883270023">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1178" height="196" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1633883270023" />
+    <state width="1178" height="196" key="GridCell.Tab.0.right" timestamp="1633883270024">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1178" height="196" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1633883270024" />
+  </component>
+</project>
